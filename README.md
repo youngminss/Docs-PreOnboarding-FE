@@ -2,9 +2,11 @@
 
 > [원티드 프리온보딩 코스](https://www.wanted.co.kr/events/pre_ob_fe_7)에서의 활동 내역을 정리한 NOTE 입니다. 
 
-[TOC]
 
-## My Role
+<br />
+
+
+## 🙋🏻‍♂️ My Role
 
 ```javascript
 const myRole = {
@@ -18,7 +20,7 @@ const myRole = {
 
 <br />
 
-## MISSONS
+## 🏃🏻‍♂️ MISSONS
 
 ### 📈 고객 투자 정보 관리 대시보드 페이지
 
@@ -26,6 +28,8 @@ const myRole = {
 
 - [👨🏻‍🎨 디자인 분석(In. Figma)](https://www.figma.com/file/1oFaLIwhk0P3KiAV6faimy/Assignment-6---%EB%94%94%EC%85%88%EB%B2%84%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88?node-id=0%3A1&t=hmQjBlLTo71wBh5s-0)  |  [🧑🏻‍💻 요구사항 분석(In, Figjam)](https://www.figma.com/file/hgmWqqFFijQVzRfrFWJAvA/Assignment-6---%EB%94%94%EC%85%88%EB%B2%84%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88(%ED%95%80%ED%8A%B8)?node-id=32%3A8&t=N19Zrl01GXX4bQAa-0)
 
+
+<br />
 
 
 `주요 기여 활동`
@@ -40,12 +44,18 @@ const myRole = {
 
 
 
+<br />
+<br />
+
+
 ### 🔍 추천 검색어 자동완성 검색창
 
 + [🚀 Origin Repository](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-3-1-12)  |  [📝 All Pull Requests](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-3-1-12/pulls?q=is%3Apr+is%3Aclosed)
 
 - [🧑🏻‍💻 요구사항 분석(In, Figjam)](https://www.figma.com/file/8rcVgEmafVSF00quZg1rM5/Assignment-5---%EA%B2%80%EC%83%89%EC%96%B4-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B8%B0%EB%8A%A5%EC%9D%84-%ED%8F%AC%ED%95%A8%ED%95%9C-%EA%B2%80%EC%83%89%EC%B0%BD-%EA%B5%AC%ED%98%84?node-id=4%3A92&t=vI1oFXUcUefnqvnE-0)
 
+
+<br />
 
 
 `주요 기여 활동`
@@ -60,12 +70,18 @@ const myRole = {
 
 
 
+<br />
+<br />
+
+
 ### 📊 광고 현황 대시보드 및 광고 관리 페이지
 
 - [🚀 Origin Repository](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-2-2-12)  |  [📝 All Pull Requests](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-2-2-12/pulls?q=is%3Apr+is%3Aclosed)
 
 - [👨🏻‍🎨 디자인 분석(In. Figma)](https://www.figma.com/file/wgIUxDLFKQyAqSGww3arko/Assignment-4---MadUp?node-id=0%3A1&t=fjXVeD7KyKMLhOIs-0)  |  [🧑🏻‍💻 요구사항 분석(In, Figjam)](https://www.figma.com/file/hWxQ6rPTf2Ftov5xD7M0Hw/Assignment-4---MadUp?node-id=0%3A1&t=eSjx7iU5z8DLbr5b-0)
 
+
+<br />
 
 
 `주요 기여 활동`
@@ -80,6 +96,9 @@ const myRole = {
 | 6     | Assets 데이터 사용 방식 리팩터링                             | [Pull Request](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-2-2-12/pull/39) |
 
 
+<br />
+<br />
+
 
 ### 🚙 차량 정보 필터링 조회 페이지
 
@@ -87,6 +106,8 @@ const myRole = {
 
 - [👨🏻‍🎨 디자인 분석(In. Figma)](https://www.figma.com/file/c91jQRLuanBMFRE9ztbXcz/Assignment-3---%EC%95%8C%ED%8B%B0%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0?node-id=0%3A1&t=5wR1rLUXjCBHkhum-0)  |  [🧑🏻‍💻 요구사항 분석(In, Figjam)](https://www.figma.com/file/imDU0VKds37F3eM4tdbgjc/Assignment-3---%EC%95%8C%ED%8B%B0%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0?node-id=0%3A1&t=vuN75t3CwCgUV2Tm-1)
 
+
+<br />
 
 
 `주요 기여 활동`
@@ -102,6 +123,9 @@ const myRole = {
 | 7     | 전반적인 코드 컨벤션 리팩터링                           | [Pull Request](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-2-1-12/pull/32) |
 
 
+<br />
+<br />
+
 
 ### 📜 깃허브 이슈 조회 페이지 
 
@@ -109,6 +133,8 @@ const myRole = {
 
 - [👨🏻‍🎨 디자인 분석(In. Figma)](https://www.figma.com/file/0zmJkpYLvxIgg0NUWoLPpf/Assignment-2---%EA%B9%83%ED%97%99-%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-%EC%9D%B4%EC%8A%88-%EC%A1%B0%ED%9A%8C-%ED%8E%98%EC%9D%B4%EC%A7%80?node-id=0%3A1&t=e4HoCJLqzzPpwzFF-1)  |  [🧑🏻‍💻 요구사항 분석(In, Figjam)](https://www.figma.com/file/as4ETRLKXZKBsfxH3q9NNe/Assignment-2---%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%B6%84%EC%84%9D?node-id=2%3A41&t=EPV0POXPZVFFNDqj-1)
 
+
+<br />
 
 
 `주요 기여 활동`
@@ -120,6 +146,9 @@ const myRole = {
 | 3     | 이슈 상세 페이지 Markdown 변환 구현    | [Pull Request](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-1-2-12/pull/32) |
 
 
+<br />
+<br />
+
 
 ### ✅ 투두 앱 페이지(사전과제) - Best Practice 도출하기(with. 동료학습) 
 
@@ -127,6 +156,7 @@ const myRole = {
 
 + [📝 Team Wiki](https://github.com/wanted-pre-onboarding-frontend-12team/pre-onboarding-7th-1-1-12/wiki)
 
+<br />
 
 
 `주요 기여 활동`
@@ -140,6 +170,7 @@ const myRole = {
 
 <br />
 
-## 동료의 평가
+## 동료들의 평가 👍
 
-![image-20221130011718598](/Users/wie/Library/Application Support/typora-user-images/image-20221130011718598.png)
+![image](https://user-images.githubusercontent.com/50790145/204598441-981d5362-8ee0-4d58-af99-27f03ae811fe.png)
+
